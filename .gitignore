@@ -1,0 +1,27 @@
+# Environment & secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials/
+secrets/
+
+# n8n local data / exports that may contain secrets
+n8n/
+.n8n/
+*.credentials.json
+*_credentials.json
+
+# OS & editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~
+
+# Logs & temp
+*.log
+tmp/
+temp/
