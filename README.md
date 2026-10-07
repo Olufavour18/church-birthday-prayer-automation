@@ -6,7 +6,6 @@ Built for **Hope Center Church** – Excellent Men department.
 
 ![Workflow Overview](./docs/workflow-screenshot.png)
 
-> **Note:** Add your own screenshot of the working workflow as `docs/workflow-screenshot.png`.
 
 ---
 
@@ -47,15 +46,7 @@ Every day at **5:00 AM (Africa/Lagos)**:
 
 ---
 
-## Repository Structure
-
-```
-.
-├── README.md
-├── .gitignore
-├── church-birthday-prayer-automation.json   # Sanitized n8n workflow (import this)
-└── docs/
-    └── workflow-screenshot.png              # Optional: add your screenshot here
+ 
 ```
 
 ---
