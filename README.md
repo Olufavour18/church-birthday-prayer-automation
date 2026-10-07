@@ -4,7 +4,7 @@ An automated n8n workflow that sends personalized, AI-generated birthday emails 
 
 Built for **Hope Center Church** – Excellent Men department.
 
-![Workflow Overview](./docs/workflow-screenshot.jpeg)
+![Workflow Screenshot](docs/workflow-screenshot.jpg)
 
 ---
 
