@@ -4,8 +4,7 @@ An automated n8n workflow that sends personalized, AI-generated birthday emails 
 
 Built for **Hope Center Church** – Excellent Men department.
 
-![Workflow Overview](./docs/workflow-screenshot.png)
-
+![Workflow Overview](./docs/workflow-screenshot.jpeg)
 
 ---
 
@@ -46,7 +45,15 @@ Every day at **5:00 AM (Africa/Lagos)**:
 
 ---
 
- 
+## Repository Structure
+
+```
+.
+├── README.md
+├── .gitignore
+├── church-birthday-prayer-automation.json   # Sanitized n8n workflow (import this)
+└── docs/
+    └── workflow-screenshot.jpeg             # Screenshot of the working workflow
 ```
 
 ---
